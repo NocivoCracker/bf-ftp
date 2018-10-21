@@ -1,5 +1,4 @@
 class Cor
-
 	def banner()
 		"#{self.cyan}"+'
  ____             _        __                       __ _         
