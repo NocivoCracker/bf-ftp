@@ -1,4 +1,5 @@
 class Cor
+
 	def banner()
 		"#{self.cyan}"+'
  ____             _        __                       __ _         
@@ -8,13 +9,10 @@ class Cor
 |____/|_|   \__,_|\__\___|_|  \___/|_|  \___\___| |_|  \__| .__/ 
                                                           |_|
 '+"#{self.branco}/========[Salves]========\\
-#{self.branco}|#{self.amarelo}IMESFENO                #{self.branco}|
-#{self.branco}|#{self.amarelo}FawkeS                  #{self.branco}|
-#{self.branco}|#{self.amarelo}Nocivo                  #{self.branco}|
-#{self.branco}|#{self.amarelo}Ruby                    #{self.branco}|
+#{self.branco}|#{self.amarelo}Nocivo        #{self.branco}          |
 #{self.branco}\\========================/
 
- by:#{self.vermelho}ShelZyKody"+"\n\n\n"
+\n\n\n"
 	end
 
 	def preto()
